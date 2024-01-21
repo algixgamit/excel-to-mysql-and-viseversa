@@ -1,0 +1,2 @@
+{"L": 5, "H": 7, "champ_class_in":"", "create": "CREATE TABLE progress1(N°Ins TEXT(255) NOT NULL,Nom_Etudiant TEXT(255),Prénom_Etudiant TEXT(255),Moy1Sem TEXT(255),Crédit1Sem TEXT(255),Moy2Sem TEXT(255),Crédit2Sem TEXT(255),Moy3Sem TEXT(255),Crédit3Sem TEXT(255),Moy4Sem TEXT(255),Moy5Sem TEXT(255),Crédit5Sem TEXT(255),Moy6Sem TEXT(255),Crédit6Sem TEXT(255),PRIMARY KEY (mat(5))", 
+"insert": "INSERT INTO test.progress1(N°Ins,Nom_Etudiant,Prénom_Etudiant,Date_naissance,Lieu_naissance,Sexe,Adresse,lieu_Naissance) VALUES ('%s','%s','%s','%s','%s','%s','%s','%s')"}

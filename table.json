@@ -1,0 +1,2 @@
+{"L": 5, "H": 7, "champ_class_in": "", "create": "CREATE TABLE progress1(mat TINYTEXT NOT NULL,Structure TEXT(255),TYPE TEXT(255),Nom TEXT(255),Prenom TEXT(255),Civilite TEXT(255),Date_de_naissance TEXT(255),lieu_Naissance TEXT(255),PRIMARY KEY (mat(5))", 
+"insert": "INSERT INTO test.progress1(id,Structure,TYPE,Nom,Prenom,Civilite,Date_de_naissance,lieu_Naissance) VALUES ('%s','%s','%s','%s','%s','%s','%s','%s')"}
